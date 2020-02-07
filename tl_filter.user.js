@@ -5,6 +5,7 @@
 // @description  Hide TL listings according to various rules
 // @author       DG (dg99@noreply.users.github.com)
 // @match        http://www.torrentleech.org/torrents/*
+// @match        https://www.torrentleech.org/torrents/*
 // @grant        none
 // ==/UserScript==
 
